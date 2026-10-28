@@ -31,7 +31,11 @@ The Personal Notes App allows each authenticated user to create, view, edit, del
 
 ## Screenshots
 
-<img src="assets/images/IMG_1176.PNG" alt="Project Screenshot" width="200">
-<img src="assets/images/IMG_1177.PNG" alt="Project Screenshot" width="200">
-<img src="assets/images/IMG_1178.PNG" alt="Project Screenshot" width="200">
-<img src="assets/images/IMG_1179.PNG" alt="Project Screenshot" width="200">
+<table>
+  <tr>
+    <td><img src="assets/images/IMG_1176.PNG" alt="Screenshot 1" width="200"></td>
+    <td><img src="assets/images/IMG_1177.PNG" alt="Screenshot 2" width="200"></td>
+    <td><img src="assets/images/IMG_1178.PNG" alt="Screenshot 3" width="200"></td>
+    <td><img src="assets/images/IMG_1179.PNG" alt="Screenshot 4" width="200"></td>
+  </tr>
+</table>
